@@ -1,0 +1,2 @@
+# First_letter_to_appear_twice
+leetcode
